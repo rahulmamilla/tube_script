@@ -2,7 +2,7 @@ How often were you able to finish watching a really long informative video on Yo
 Ever wanted to read the video like an article instead, which you can highlight and continue reading from where you left it?<br/>
 TubeScript grabs transcripts of all the new YouTube videos from the channels you have subscribed to, every 24 hours.
 <br/><br/>
-Note: The app cannot be scaled as YouTube API has certain restrictions on the number of videos that can be fetched from channels on daily basis
+Note: The app couldnot be scaled as YouTube API has certain restrictions on the number of videos that can be fetched from channels on daily basis
 <br/><br/>
 Features:<br/>
 1. View list of all channels you have subscribed to
